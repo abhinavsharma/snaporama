@@ -1,12 +1,8 @@
-Firefox TabFocus
-================
+Snaporama
+=========
 
 What is it?
 -----------
 
-TabFocus lets you extract a browsing session into a new Panorama group.
-
-How does it work?
------------------
-
-It backtracks your current tab using the history to see where it came from, then it runs down the tree to find all other pages that came from the same source.
+Snapshot your Firefox Panorama as bookmark groups and quickly recall them when
+you need them.
